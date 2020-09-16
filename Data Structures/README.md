@@ -9,4 +9,4 @@
 </details>
 
 ### Description
-This course provides experience implementing and manipulating basic data structures, as well as analyzing their applications in Computer Science. Topics covered will include: Stacks, Queues, Linked Lists, Binary Tree Structures, Heaps, Graphs, and Sorting Algorithms.
+This provided experience implementing and manipulating basic data structures, as well as analyzing their applications in Computer Science. Topics covered includes: Stacks, Queues, Linked Lists, Binary Tree Structures, Heaps, Graphs, and Sorting Algorithms.

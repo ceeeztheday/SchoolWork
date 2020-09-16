@@ -1,0 +1,40 @@
+Cesar Arroyo Jr
+Short Answers
+
+12. a. false
+    b. true
+    c. true
+    d. false
+    e. false
+    f. true
+    g. false
+    h. true
+    i. true
+    j. false
+    k. true
+    
+
+43. Main differences in terms of memory allocation between using an 
+    array-based stack and using a link-based stack are array-based stack
+    use contigous memory where it is given a block of memory in one long
+    uninterrupted chunk. Where as link-based stack consists of individual
+    nodes linked by its pointers. 
+
+50. a. 61
+    b. 75
+    c. 96
+    d. 423
+   
+4. a. base case(s) of the puzzle method are...
+         if(base > limit)
+            return -1;
+         else
+            if(base == limit)
+               return 1;
+   b. general case(s) of the puzzle method are...
+         else
+            return base * puzzle(base + 1, limit);
+            
+5. a. -1
+   b. 120
+   c. 1

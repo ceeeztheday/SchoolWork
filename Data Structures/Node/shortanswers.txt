@@ -1,0 +1,27 @@
+Cesar Arroyo Jr
+
+1. a. true
+   b. false because the element that has been in a queue the longest is at the front.
+   c. true 
+   d. false because the isEmpty method changes nothing and doesn't pull items off the queue
+   e. true
+   f. false because the isEmpty method changes nothing only provides the information
+   g. false because dequeue operation is more of a transformer and removes an item from the queue
+      rather than an observer
+   h. true
+   
+2. a. Valid
+   b. Invalid because the radii that is within 10% of each other still makes a difference.
+   c. Invalid because the dividend can be of a different int when divided by a specific int and still have the same 
+      remainder. For example 10 divided by 3 is 9 with remainder 1 and 25 divided by 3 is 8 with remainder 1. 
+   d. Invalid because for example the first int could be 5 and second int could be 10 second is a multiple of the first int
+      but the two ints are not equal
+   
+3. a. A special case of ABList add method would be adding an element when the size of the ABList is full then
+      throwing an out of bounds exception 
+   b. A special case of ABList set method would be setting an element that is not supported by the ABList such as
+      a negative number or of difference to the ABList will throw an unsopported operation exception. Also when the
+      element 
+   c. A special case of LBList add method would be inserting at the head, the end or to an empty LBList
+   d. A special case of LBList remove method would be when the element is not shown in the LBList therefore it throws
+      an exception of no such element was found. 

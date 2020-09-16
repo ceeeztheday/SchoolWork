@@ -1,0 +1,44 @@
+ ----jGRASP exec: java TestHomework4
+W1 = 
+0     1     3     GÍP   GÍP   
+
+1     0     3     6     GÍP   
+
+3     3     0     4     2     
+
+GÍP   6     4     0     5     
+
+GÍP   GÍP   2     5     0     
+
+Test 1: MST built for W1 - [Passed]
+ Expected: F = {(v1, v2), (v1, v3), (v3, v5), (v3, v4)}
+ Yours: F = {(v1, v2), (v1, v3), (v3, v4), (v3, v5), }
+
+Test 2: Total cost of the MST of W1 - [Passed]
+ Expected: 10
+ Yours: 10
+
+W2 = 
+0     9     GÍP   GÍP   3     
+
+9     0     3     2     GÍP   
+
+GÍP   3     0     4     GÍP   
+
+GÍP   2     4     0     3     
+
+3     GÍP   GÍP   3     0     
+
+Test 3: MST built for W2 - [Passed]
+ Expected: F = {(v1, v5), (v4, v5), (v2, v4), (v2, v3)}
+ Yours: F = {(v4, v2), (v2, v3), (v5, v4), (v1, v5), }
+
+Test 4: Total cost of the MST of W2 - [Passed]
+ Expected: 11
+ Yours: 11
+
+Total test cases: 4
+Correct: 4
+Wrong: 0
+
+ ----jGRASP: operation complete.

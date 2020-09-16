@@ -1,0 +1,47 @@
+Press any key to test Problem 7...
+================ Problem 7 ================
+The following tests are based on the adjacent matrix W and shortest path matrix P shown below:
+W = 
+0     1     GÍP   1     5     
+9     0     3     2     GÍP   
+GÍP   GÍP   0     4     GÍP   
+GÍP   GÍP   2     0     3     
+3     GÍP   GÍP   GÍP   0     
+
+P = 
+0     0     4     0     4     
+5     0     0     0     4     
+5     5     0     0     4     
+5     5     0     0     0     
+0     1     4     1     0     
+
+Test 1: minCostRec(src = 1, dest = 2) - [Passed]
+ Expected: 1
+ Yours: 1
+
+Test 2: minCostRec(src = 2, dest = 1) - [Passed]
+ Expected: 8
+ Yours: 8
+
+Test 3: minCostRec(src = 3, dest = 2) - [Passed]
+ Expected: 11
+ Yours: 11
+
+Test 4: minCostRec(src = 5, dest = 3) - [Passed]
+ Expected: 6
+ Yours: 6
+
+Test 5: minCostRec(src = 5, dest = 4) - [Passed]
+ Expected: 4
+ Yours: 4
+
+Test 6: minCostRec(src = 3, dest = 3) - [Passed]
+ Expected: 0
+ Yours: 0
+
+Total test cases: 6
+Correct: 6
+Wrong: 0
+================ End of Problem 7 ================
+
+ ----jGRASP: operation complete.

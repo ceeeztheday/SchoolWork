@@ -1,0 +1,31 @@
+ 
+  ----jGRASP exec: java TestHomework5
+ Test 1 - queens(3):
+  Expected: # calls = 19
+  Yours: # calls = 19
+ 
+ Test 2 - queens(4):
+ - Q - - 
+ - - - Q 
+ Q - - - 
+ - - Q - 
+ This is a valid solution.
+ 
+  Expected: # calls = 27
+  Yours: # calls = 27
+ 
+ Test 3 - queens(6):
+ - Q - - - - 
+ - - - Q - - 
+ - - - - - Q 
+ Q - - - - - 
+ - - Q - - - 
+ - - - - Q - 
+ This is a valid solution.
+ 
+  Expected: # calls = 172
+  Yours: # calls = 172
+ 
+ 
+  ----jGRASP: operation complete.
+ 

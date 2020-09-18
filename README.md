@@ -1,4 +1,4 @@
-# school_work
+# School Work
 ## Index
 This repository holds all my personal assignments that I've done over my years as a Computer Science undergraduate at Northeastern Illinois University (NEIU). They're binned into four core courses
 
